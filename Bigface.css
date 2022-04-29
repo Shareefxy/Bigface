@@ -1,0 +1,261 @@
+@font-face {
+  font-family: fonts;
+  src: url(font/Test\ Founders\ Grotesk\ 400.otf);
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+html {
+  overflow-x: hidden;
+}
+.announcment-nav {
+
+  font-family: 'Founders Grotesk', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;;
+  font-size: 17.9939px;
+  font-weight: 500;
+  letter-spacing: 1.28528px;
+  position: relative;
+  text-align: center;
+  z-index: 5;
+  color: rgb(0, 0, 0);
+  padding-top: 20px;
+}
+.Header {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+}
+.container {
+  display: flex;
+  z-index: 4;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  background-color: white;
+}
+.container img {
+  padding-left: 780px;
+  padding-top: 18px;
+}
+
+.shop {
+  font-family:var(Ubuntu);
+  font-style: normal;
+  padding-left: 22px;
+  padding-top: 23px;
+}
+.bag {
+  padding-left: 780px;
+  padding-top: 23px;
+}
+
+.bodyText {
+  position: relative;
+}
+.img {
+  width: 100%;
+  height: 900px;
+}
+.h1Text {
+  top: 348px;
+  left: 742px;
+  position: absolute;
+  font-size: 400%;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.h3Text {
+  top: 468px;
+  left: 879px;
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.Section1 {
+  display: flex;
+  width: 100%;
+  height: 1000px;
+}
+.img-kits {
+  border-style: solid;
+  width: 50%;
+}
+.Tennis-text{
+  padding-left: 22px;
+  padding-top: 45px;
+}
+.img-kit {
+  position: relative;
+  bottom: 3px;
+  left: 50px;
+  width: 830px;
+}
+.img-kit {
+  width: 80%;
+}
+.img-jar {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  width: 50%;
+}
+.Coffee-text {
+  padding-left: 22px;
+  padding-top: 45px;
+}
+.img-coffee {
+  bottom: 137px;
+  position: relative;
+  left: 69px;
+  width: 828px;
+}
+
+
+.Section2 {
+  border-bottom-style: solid;
+  width: 100%;
+}
+.Logo {
+  width: 95%;
+
+  background-color: white;
+}
+.img-logo {
+  padding: 5%;
+  position: relative;
+  width: 110%;
+  right: 35px;
+  bottom: 22px;
+}
+.insidetext {
+  width: 100%;
+  height: 176px;
+}
+.text-bf {
+  font-family: font;
+  position: relative;
+  left: 40px;
+  bottom: 22px;
+}
+.face-logo {
+  position: relative;
+  left: 44px;
+  bottom: 2px;
+  width: 59px;
+}
+.text-bms {
+  position: relative;
+  left: 210px;
+  bottom: 120px;
+  width: 12px;
+}
+.text-mk1 {
+  position: relative;
+  left: 210px;
+  bottom: 86px;
+}
+.text-tagline {
+  position: relative;
+  left: 656px;
+  bottom: 194px;
+}
+.text-source {
+  position: relative;
+  left: 656px;
+  width: 319px;
+  bottom: 178px;
+}
+.text-caution {
+  position: relative;
+  left: 1332px;
+  bottom: 266px;
+}
+.text-contain {
+  position: relative;
+  left: 1332px;
+  bottom: 251px;
+  width: 12px;
+}
+.arrow {
+  position: relative;
+  left: 1563px;
+  bottom: 304px;
+  width: 131px;
+}
+.text-cause {
+  position: relative;
+  left: 1712px;
+  bottom: 321px;
+  width: 0px;
+}
+
+.Section3 {
+  width: 100%;
+
+}
+.pictures {
+  display: flex;
+}
+.im-tenniskit {
+  width: 100%;
+}
+.image {
+  width: 100%;
+}
+.footer {
+  height: 553px;
+  background-color: black;
+  
+}
+.BFC {
+  position: relative;
+    top: 173px;
+    width: 43%;
+    left: 529px;
+}
+.conclusion {
+  justify-content: center;
+  display: flex;
+  color: white;
+  gap: 160px;
+  position: relative;
+  top: 232px;
+}
+.shop-text {
+  position: relative;
+  left: 7px;
+}
+.contact {
+  position: relative;
+  left: 43px;
+}
+.shipping {
+  position: relative;
+  left: 22px;
+}
+.privacy {
+  position: relative;
+  right: 27px;
+}
+.left-content {
+  position: relative;
+  top: 100px;
+  right: 172px;
+}
+.right-content {
+  position: relative;
+  top: 102px;
+  left: 197px;
+}
+.lefty-content{
+  position: relative;
+  top: 100px;
+  right: 191px;
+
+}
